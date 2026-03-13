@@ -1,5 +1,8 @@
 # TITAN Human Detection Engine v1.0
-
+<p align="center">
+  <img src="images/Screenshot_20260313_141834.png" width="45%" />
+  <img src="image2.png" width="45%" />
+</p>
 **Advanced WiFi-based Motion Detection with Multi-Metric Analysis**
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
